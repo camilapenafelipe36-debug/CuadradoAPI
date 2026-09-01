@@ -10,6 +10,6 @@ namespace CuadradoAPI.Data
         {
         }
 
-        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Numero> Numeros { get; set; }
     }
 }
